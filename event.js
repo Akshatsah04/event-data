@@ -552,86 +552,86 @@ description: "Hack(her) was a women centric hackathon which would help the parti
     year: "2021",
     description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
     },
-{
-id: 20,
-title: "HerStory: Ms. Ananya Smirti",
-image: "img/wit_ananya.jpg",
-date: "",
-year: "",
-description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
-},
-{
-id: 19,
-title: "HerStory: Ms. Nitya Jagadam",
-image: "img/wit_nitya.jpg",
-date: "",
-year: "",
-description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
-},
-{
-id: 18,
-title: "Breacout",
-image: "img/breacout.jpg",
-date: "",
-year: "",
-description: "This one-of-a-kind event was conducted by IEEE WIE MUJ to give the students a chance at practicing coding while playing. The participants were to use their wits and coding skills to cross each level and proceed further on the scoreboard. As the participant progressed through each floor, the difficulty as well as thrill increased. If the participants were unable to finish a particular floor in the given time they were eliminated."
-},
-{
-id: 17,
-title: "Learn <Open Source>",
-image: "img/open_source.jpg",
-date: "",
-year: "",
-description: "This webinar was focused on the essentials of Open Source. It also covered topics like Gsoc and MLH. The guest speaker was Mr Harsh Bardhan Mishra."
-},
-{
-id: 16,
-title: "Ready, Set, VFX",
-image: "img/ready_set_vfx.jpg",
-date: "",
-year: "",
-description: "The event was an educational workshop regarding the field of VFX in collaboration with IEEE WIE. The event educated the participants about 3D art, software to use, mistakes to avoid and tips and tricks to improve one's 3D art. The workshop was led by Harsh Maheshwari."
-},
-{
-id: 15,
-title: "Financial Planning for Young Professionals",
-image: "img/financial_planning.jpg",
-date: "",
-year: "",
-description: "The event was organised by IEEE WIE MUJ in collaboration with Hermoneytalks to teach students about financial planning and money saving techniques."
-},
-{
-id: 14,
-title: "Basics of Java",
-image: "img/java_oops.jpg",
-date: "",
-year: "",
-description: "The workshop was conducted by Shubham Rawat, an ex-mentor at Coding Blocks and Google Code-In. After discussing the basic syntax of the Java programming language, and variables and data types, the mentor proceeded to touch some more advanced topics such as Collections, ArrayList and Vectors. The workshop was a successful one with over 75 attendees, who were given a chance to start Java from scratch and build a strong foundation."
-},
-{
-id: 13,
-title: "Roadmap to Competitive Programming",
-image: "img/competitive_programming.jpeg",
-date: "",
-year: "",
-description: "IEEE WIE MUJ, in collaboration with GirlScript Jaipur conducted a webinar on “Roadmap to Competitive Programming” on 24th January 2021. Kashish Gupta, an Incoming Summer Analyst at Goldman Sachs, and 4-star coder on CodeChef shared her journey of competitive programming, and some useful tips on cracking interviews and participating in online challenges."
-},
-{
-id: 12,
-title: "D2: DESIGN DISRUPT",
-image: "img/d2d.jpg",
-date: "",
-year: "",
-description: "The speaker was Ms. Khyati Sehkar, a digital artist and designer, currently pursuing her graduation from NIFT. The participants worked on the given problem statement over the span of 24 hours to complete for the top positions in the competition."
-},
-{
-id: 11,
-title: "Road to Sucess: From MUJ to Walmart",
-image: "img/road_to_success.jpg",
-date: "",
-year: "",
-description: "The speaker of the session was Ms. Nikita Sarkar who is an alumnus of Manipal University Jaipur. She got placed in the world recognized company-Walmart as a technical project manager. She explained and recounted her UX design journey to the audience who appreciated the knowledge she imparted."
-},
+    {
+        id: 20,
+        title: "HerStory: Ms. Ananya Smirti",
+        image: "img/wit_ananya.jpg",
+        date: "29 August",
+        year: "2021",
+        description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
+        },
+        {
+        id: 19,
+        title: "HerStory: Ms. Nitya Jagadam",
+        image: "img/wit_nitya.jpg",
+        date: "23 January",
+        year: "2022",
+        description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
+        },
+        {
+        id: 18,
+        title: "Breacout",
+        image: "img/breacout.jpg",
+        date: "21 August",
+        year: "2021",
+        description: "This one-of-a-kind event was conducted by IEEE WIE MUJ to give the students a chance at practicing coding while playing. The participants were to use their wits and coding skills to cross each level and proceed further on the scoreboard. As the participant progressed through each floor, the difficulty as well as thrill increased. If the participants were unable to finish a particular floor in the given time they were eliminated."
+        },
+        {
+        id: 17,
+        title: "Learn <Open Source>",
+        image: "img/open_source.jpg",
+        date: "19 September",
+        year: "2021",
+        description: "This webinar was focused on the essentials of Open Source. It also covered topics like Gsoc and MLH. The guest speaker was Mr Harsh Bardhan Mishra."
+        },
+        {
+        id: 16,
+        title: "Ready, Set, VFX",
+        image: "img/ready_set_vfx.jpg",
+        date: "25 September",
+        year: "2021",
+        description: "The event was an educational workshop regarding the field of VFX in collaboration with IEEE WIE. The event educated the participants about 3D art, software to use, mistakes to avoid and tips and tricks to improve one's 3D art. The workshop was led by Harsh Maheshwari."
+        },
+        {
+        id: 15,
+        title: "Financial Planning for Young Professionals",
+        image: "img/financial_planning.jpg",
+        date: "28 May",
+        year: "2021",
+        description: "The event was organised by IEEE WIE MUJ in collaboration with Hermoneytalks to teach students about financial planning and money saving techniques."
+        },
+        {
+        id: 14,
+        title: "Basics of Java",
+        image: "img/java_oops.jpg",
+        date: "22 May",
+        year: "2021",
+        description: "The workshop was conducted by Shubham Rawat, an ex-mentor at Coding Blocks and Google Code-In. After discussing the basic syntax of the Java programming language, and variables and data types, the mentor proceeded to touch some more advanced topics such as Collections, ArrayList and Vectors. The workshop was a successful one with over 75 attendees, who were given a chance to start Java from scratch and build a strong foundation."
+        },
+        {
+        id: 13,
+        title: "Roadmap to Competitive Programming",
+        image: "img/competitive_programming.jpeg",
+        date: "24 January",
+        year: "2021",
+        description: "IEEE WIE MUJ, in collaboration with GirlScript Jaipur conducted a webinar on “Roadmap to Competitive Programming” on 24th January 2021. Kashish Gupta, an Incoming Summer Analyst at Goldman Sachs, and 4-star coder on CodeChef shared her journey of competitive programming, and some useful tips on cracking interviews and participating in online challenges."
+        },
+        {
+        id: 12,
+        title: "D2: DESIGN DISRUPT",
+        image: "img/d2d.jpg",
+        date: "14-16 July",
+        year: "2021",
+        description: "The speaker was Ms. Khyati Sehkar, a digital artist and designer, currently pursuing her graduation from NIFT. The participants worked on the given problem statement over the span of 24 hours to complete for the top positions in the competition."
+        },
+        {
+        id: 11,
+        title: "Road to Sucess: From MUJ to Walmart",
+        image: "img/road_to_success.jpg",
+        date: "7 August",
+        year: "2021",
+        description: "The speaker of the session was Ms. Nikita Sarkar who is an alumnus of Manipal University Jaipur. She got placed in the world recognized company-Walmart as a technical project manager. She explained and recounted her UX design journey to the audience who appreciated the knowledge she imparted."
+        },
 {
 id: 10,
 title: "Data Science: Face Detection",
