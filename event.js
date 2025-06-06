@@ -632,85 +632,85 @@ description: "Hack(her) was a women centric hackathon which would help the parti
         year: "2021",
         description: "The speaker of the session was Ms. Nikita Sarkar who is an alumnus of Manipal University Jaipur. She got placed in the world recognized company-Walmart as a technical project manager. She explained and recounted her UX design journey to the audience who appreciated the knowledge she imparted."
         },
-{
-id: 10,
-title: "Data Science: Face Detection",
-image: "img/data science workshop.jpeg",
-date: "",
-year: "",
-description: "The workshop started off with introduction to basics of Python and its application in Data Science and Machine Learning. It proceeded with explanation of advanced python libraries like NumPy and Matplotlib, after which a model for Face Detection was rendered and tested."
-},
-{
-id: 9,
-title: "Digital Marketing",
-image: "img/Digital Marketing.jpeg",
-date: "",
-year: "",
-description: "In the webinar our mentor covered the topics like introduction to SEO and Content Marketing in the digital world, how to drive leads and maximize revenues, the DOs and DON’Ts about Online-businesses and how to use Social Media at your disposal. His knowledge on current digital marketing scenarios taught a lot to the attendees and there were a lot of interesting questions by the viewers."
-},
-{
-id: 8,
-title: "Financial Stability",
-image: "img/Financial Stability.JPG",
-date: "",
-year: "",
-description: "The workshop began with a discussion on how COVID-19 has affected our lives, and the Indian Economy. It proceeded with a detailed discussion on what finance really means, and how and where to wisely invest with due respect to current economic conditions. This was followed by a Q&A, where students clarified their doubts. The mentor was brilliant in the subject and in answering all the doubts, and also educated the students briefly about investments in gold, stock market and real estate."
-},
-{
-id: 7,
-title: "Interactive Session and Q&A",
-image: "img/Interactive session.jpg",
-date: "",
-year: "",
-description: "In the webinar our mentor covered the topics like admission criteria, application process abroad, Profile building and also roadmap about pursuing bachelors abroad. Our mentor also briefed us about how aptitudes set forward an individual regardless of scores through examples from her own life."
-},
-{
-id: 6,
-
-title: "LEAD'HER'SHIP",
-image: "img/Leadhership.jpeg",
-date: "",
-year: "",
-description: "In this webinar Ms. Vaishali Wagle shares her personal experiences and battles and all the handwork it takes to reach here. She told her greatest fears and how she manages it."
-},
-{
-id: 5,
-title: "40 Hours of Web Dev",
-image: "img/progate.jpeg",
-date: "",
-year: "",
-description: "IEEE Women in Engineering Society of Manipal University Jaipur in collaboration with Progate organised a Progate’s 40 hours of HTML/CSS from 31st October to 1st November. The event aims to help our participants begin their web development journey. The participants were asked to complete the study1 of HTML/CSS to receive access for further study."
-},
-{
-id: 4,
-title: "Writer's Unblock",
-image: "img/Writing Event.jpg",
-date: "",
-year: "",
-description: "As a part of our Contest, we asked students to write an article on any one of the topics with a minimum word limit of"
-},
-{
-id: 3,
-title: "Machine Learning",
-image: "img/MachineLearning.JPG",
-date: "",
-year: "",
-description: "IEEE WIE MUJ collaborated with Coding Ninjas to host an online webinar on the topic - Machine Learning on 7th August from 8 to 9pm. The interview was hosted by Ankur Goyel. The webinar started off by them talking about their journey as data scientists, and elaborating on the vastness of the field. They educated the students about some interesting aspects of AI and ML along with its applications. This was followed by an interactive session with the participants, where all their queries were clarified."
-},
-{
-id: 2,
-title: "Cryptocurrency and Blockchain",
-image: "img/Cryptocurrency.JPG",
-date: "",
-year: "",
-description: "In the webinar our mentor covered the topics like Cryptocurrency and the role of Blockchain. His passion and grasp in the field of cryptocurrency and blockchain filled the attendees with a new zest toward the topic and a lot of insightful questions were put up."
-},
-{
-id: 1,
-title: "ROBOTECHS",
-image: "img/Robotech.JPG",
-date: "",
-year: "",
-description: "In the webinar our mentor covered the topics like introduction to Robotics and its use in reality and in virtual medium, especially during the COVID-19 pandemic. This interactive webinar combined interesting talks on Robotics, Technical Input and Practical, Hands on Experience. The participants were also taught about Robotic Process Automation- how it is a technology to execute a business by integrating human actions into a robot. It also comprised the basics of using Virtual Robotics Toolkit."
-}
+        {
+            id: 10,
+            title: "Data Science: Face Detection",
+            image: "img/data science workshop.jpeg",
+            date: "19 August",
+            year: "2021",
+            description: "The workshop started off with introduction to basics of Python and its application in Data Science and Machine Learning. It proceeded with explanation of advanced python libraries like NumPy and Matplotlib, after which a model for Face Detection was rendered and tested."
+            },
+            {
+            id: 9,
+            title: "Digital Marketing",
+            image: "img/Digital Marketing.jpeg",
+            date: "26 August",
+            year: "2021",
+            description: "In the webinar our mentor covered the topics like introduction to SEO and Content Marketing in the digital world, how to drive leads and maximize revenues, the DOs and DON’Ts about Online-businesses and how to use Social Media at your disposal. His knowledge on current digital marketing scenarios taught a lot to the attendees and there were a lot of interesting questions by the viewers."
+            },
+            {
+            id: 8,
+            title: "Financial Stability",
+            image: "img/Financial Stability.JPG",
+            date: "17 October",
+            year: "2020",
+            description: "The workshop began with a discussion on how COVID-19 has affected our lives, and the Indian Economy. It proceeded with a detailed discussion on what finance really means, and how and where to wisely invest with due respect to current economic conditions. This was followed by a Q&A, where students clarified their doubts. The mentor was brilliant in the subject and in answering all the doubts, and also educated the students briefly about investments in gold, stock market and real estate."
+            },
+            {
+            id: 7,
+            title: "Interactive Session and Q&A",
+            image: "img/Interactive session.jpg",
+            date: "5 September",
+            year: "2020",
+            description: "In the webinar our mentor covered the topics like admission criteria, application process abroad, Profile building and also roadmap about pursuing bachelors abroad. Our mentor also briefed us about how aptitudes set forward an individual regardless of scores through examples from her own life."
+            },
+            {
+            id: 6,
+            
+            title: "LEAD'HER'SHIP",
+            image: "img/Leadhership.jpeg",
+            date: "7 March",
+            year: "2021",
+            description: "In this webinar Ms. Vaishali Wagle shares her personal experiences and battles and all the handwork it takes to reach here. She told her greatest fears and how she manages it."
+            },
+            {
+            id: 5,
+            title: "40 Hours of Web Dev",
+            image: "img/progate.jpeg",
+            date: "30 October",
+            year: "2020",
+            description: "IEEE Women in Engineering Society of Manipal University Jaipur in collaboration with Progate organised a Progate’s 40 hours of HTML/CSS from 31st October to 1st November. The event aims to help our participants begin their web development journey. The participants were asked to complete the study1 of HTML/CSS to receive access for further study."
+            },
+            {
+            id: 4,
+            title: "Writer's Unblock",
+            image: "img/Writing Event.jpg",
+            date: "1-10 September",
+            year: "2020",
+            description: "As a part of our Contest, we asked students to write an article on any one of the topics with a minimum word limit of"
+            },
+            {
+            id: 3,
+            title: "Machine Learning",
+            image: "img/MachineLearning.JPG",
+            date: "7 August",
+            year: "2020",
+            description: "IEEE WIE MUJ collaborated with Coding Ninjas to host an online webinar on the topic - Machine Learning on 7th August from 8 to 9pm. The interview was hosted by Ankur Goyel. The webinar started off by them talking about their journey as data scientists, and elaborating on the vastness of the field. They educated the students about some interesting aspects of AI and ML along with its applications. This was followed by an interactive session with the participants, where all their queries were clarified."
+            },
+            {
+            id: 2,
+            title: "Cryptocurrency and Blockchain",
+            image: "img/Cryptocurrency.JPG",
+            date: "12 September",
+            year: "2020",
+            description: "In the webinar our mentor covered the topics like Cryptocurrency and the role of Blockchain. His passion and grasp in the field of cryptocurrency and blockchain filled the attendees with a new zest toward the topic and a lot of insightful questions were put up."
+            },
+            {
+            id: 1,
+            title: "ROBOTECHS",
+            image: "img/Robotech.JPG",
+            date: "31 August",
+            year: "2020",
+            description: "In the webinar our mentor covered the topics like introduction to Robotics and its use in reality and in virtual medium, especially during the COVID-19 pandemic. This interactive webinar combined interesting talks on Robotics, Technical Input and Practical, Hands on Experience. The participants were also taught about Robotic Process Automation- how it is a technology to execute a business by integrating human actions into a robot. It also comprised the basics of using Virtual Robotics Toolkit."
+            }
 ]
