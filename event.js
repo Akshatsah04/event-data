@@ -156,80 +156,80 @@ description: "Pixel Forge is a hands-on game development workshop featuring a gu
 id: 70,
 title: "Cyber Grid",
 image: "img/cybergrid.jpg",
-date: "",
-year: "",
+date: "28-31 August",
+year: "2024",
 description: "Cyber Grid, held from August 28th to 30th, 2024 in collaboration with IEEE WIE ISTIC Tunisia, was a premier international cybersecurity event dedicated to global collaboration, knowledge sharing, and empowering the future leaders of cybersecurity through expert-led sessions and insightful discussions."
 },
 {
 id: 69,
 title: "BrandIT",
 image: "img/brandIT.jpg",
-date: "",
-year: "",
+date: "3-5 August",
+year: "2024",
 description: "BrandIt was a dynamic and engaging event from August 3rd to 5th, 2024. Participants developed unique brand ideas into real-life products or services. They crafted presentations, designed websites, and showcased their skills. The event concluded with pitches to a panel of three expert judges: Bibhu Kalyan Nayak, Kartik Singh, and Priya Bhola. The creativity and innovation displayed were truly inspiring."
 },
 {
 id: 68,
 title: "LeetFleet",
 image: "img/leetfleet.jpg",
-date: "",
-year: "",
+date: "20 july",
+year: "2024",
 description: "LeetFleet, hosted on July 20, 2024, was a dynamic DSA learning event led by Mr. Gaurish Baliga, Master at Codeforces and SWE intern at Google. Streamed live on Discord and YouTube, participants engaged in live problem-solving, gained expert insights, and learned strategies to enhance their coding efficiency. The event fostered a collaborative community, bridging knowledge gaps and showcasing how coding skills translate to real-world challenges."
 },
 {
 id: 67,
 title: "TechClash",
 image: "img/techClash.jpg",
-date: "",
-year: "",
+date: "28-30 june",
+year: "2024",
 description: "TechClash, organized by IEEE WIE MUJ for IEEE WIE Day, was a dynamic debating event featuring quizzes and debates on AI and some domains of 4IR (cybersecurity, biotechnology, and cloud computing). Held over a span of 3 days, the event began with a session on 'Mastering Research Papers'. In the following sessions, participants showcased their critical thinking and debating skills, culminating in a grand finale on 'Should consumers have the right to repair their own electronic devices or should manufacturers retain control over repairs'."
 },
 {
 id: 66,
 title: "APOTHEOSIS",
 image: "https://images.prismic.io/ieeemuj/ZhuddDjCgu4jzzYy_fbdadd48-f79c-4cef-a548-2c28d1693fe9.jpeg?auto=format,compress",
-date: "",
-year: "",
+date: "12 April",
+year: "2024",
 description: "An electrifying 12 hour hackathon adventure, overnight and filled with innovation and camaraderie, where diversity thrived."
 },
 {
 id: 65,
 title: "BITS N' BREWS EPISODE 2",
 image: "img/bnbep2.jpg",
-date: "",
-year: "",
+date: "31 March",
+year: "2024",
 description: "IEEE WIE MUJ conducted the second edition of its alumni talk series “Bits N’ Brews” with Ms. Akruti Sinha. She spoke about her experience in the Masters programme at North Carolina State University and guided the audience members through the application process required to apply for the same. Some of her indispensable advice included having glowing LoRs and SoPs, identify dream and safety schools to maximise chances of acceptance and gaining some research experience at the undergraduate level."
 },
 {
 id: 64,
 title: "EMPOWHER",
 image: "img/Empowher.jpg",
-date: "",
-year: "",
+date: "4-10 March",
+year: "2024",
 description: "This Women's Day, we dipped our brushes in the palette of sisterhood's brilliance and illuminated the canvas of creativity with EmpowHer: A Digital Art Competition."
 },
 {
 id: 63,
 title: "FUTURE FORGE",
 image: "https://images.prismic.io/ieeemuj/f8b08a6c-1ead-4706-9d85-b2fb1bd52f31_IMG_5346.png?auto=compress,format",
-date: "",
-year: "",
+date: "23 February",
+year: "2024",
 description: "A journey through the present, future and the imaginary world of sci-fi where we created our own products inspired from them. The preexisting technology was reverse engineered and the ideas for a new product with an added twist were presented. The participants bought their primary products with points earned through a series of fastest finger first questions. All in all, a wholesome experience filled with learning and laughter."
 },
 {
 id: 62,
 title: "WIENTER OF CODE",
 image: "https://images.prismic.io/ieeemuj/ee77a442-6bb3-41f4-ac43-d1fae7e33dfc_899f34ff-1e96-471f-8c09-31844941f15c.jpeg?auto=compress,format",
-date: "",
-year: "",
+date: "13 January-2 February",
+year: "2024",
 description: "A solid boost to your journey into coding, an offline workshop to cover your basics of open source with Git and GitHub followed by 21 days of practice facilitated by BLUELEARN all set to push you onto the right track."
 },
 {
 id: 61,
 title: "BITS N BREWS",
 image: "https://images.prismic.io/ieeemuj/0082a875-f3a7-420a-ae92-b7234c720e73_WhatsApp+Image+2023-12-26+at+11.43.44+PM.jpeg?auto=compress,format",
-date: "",
-year: "",
+date: "26 December",
+year: "2023",
 description: "“Connecting with our alumni, those who've walked the walk, is a fantastic way to map out your career and seek valuable guidance.” Keeping this in mind, IEEE WIE MUJ conducted 'BITS N' BREWS', an alumni talk with Ms. Shiksha Jaiswal (Class of 2021), who is currently working as a modern work consultant at Microsoft IGD, Hyderabad."
 },
 {
