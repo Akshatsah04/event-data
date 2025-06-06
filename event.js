@@ -76,80 +76,80 @@ description: "IEEE WIE MUJ is excited to present Bits N' Brews (Ep:5)—an inspi
 id: 80,
 title: "CODER'S CRUSADE",
 image: "https://media.licdn.com/dms/image/v2/D4D22AQEILt5WOhpnTA/feedshare-shrink_1280/feedshare-shrink_1280/0/1733041080525?e=1740009600&v=beta&t=F3iytqDPicr-VbnriImI3gH0G207OE6PRoz7FJjPqzY",
-date: "",
-year: "",
+date: "27 November",
+year: "2024",
 description: "On 27th November 2024, IEEE WIE MUJ hosted Coders Crusade, an engaging and educational event designed to introduce budding programmers to C programming and competitive coding."
 },
 {
 id: 79,
 title: "BALLISTIC",
 image: "https://images.prismic.io/ieeemuj/Zv26D7VsGrYSwUT-_BALLISTICMAINPOSTER-1-.png?auto=format,compress",
-date: "",
-year: "",
+date: "3 October",
+year: "2024",
 description: "It is a gaming event where the shortlisted PC and mobile games are Fifa, BGMI and Mortal Kombat. Participants will progressively reach further rounds and the winners will bag the prize pool."
 },
 {
 id: 78,
 title: "WRITE IT RIGHT",
 image: "https://images.prismic.io/ieeemuj/ZvMbF7VsGrYSv4gJ_writeitrightnew-01.png?auto=format,compress",
-date: "",
-year: "",
+date: "26 September",
+year: "2024",
 description: "Write it Right is a comprehensive session on research paper writing, led by an expert speaker. The event will cover essential tips and guidelines for crafting a well-structured research paper, ideal for both beginners and experienced writers."
 },
 {
 id: 77,
 title: "FOR THE RECORD",
 image: "https://images.prismic.io/ieeemuj/ZvMYbbVsGrYSv4Tr_FTRMAINPOSTER.png?auto=format,compress",
-date: "",
-year: "",
+date: "27 September",
+year: "2024",
 description: "An IEEE community exclusive event where the participants will try to break existing world records."
 },
 {
 id: 76,
 title: "TECH SUMMIT 3.0",
 image: "https://images.prismic.io/ieeemuj/Zv3IhLVsGrYSwUYq_TECHSUMMITMAINPOSTER.png?auto=format,compress",
-date: "",
-year: "",
+date: "5 October",
+year: "2024",
 description: "A workshop event where speakers, mostly tech enthusiasts and industry professionals are called to give insights in the field of tech. It fosters networking opportunities among industry professionals and educates the students about the emerging trends and possibilities."
 },
 {
 id: 75,
 title: "BIT TO BYTE",
 image: "https://images.prismic.io/ieeemuj/Zv5karVsGrYSwVDK_B2BPOSTER-1-.png?auto=format,compress",
-date: "",
-year: "",
+date: "4 October",
+year: "2024",
 description: "A 24 hour Hackathon with exhilarating problem statements and a platform to present innovation."
 },
 {
 id: 74,
 title: "BREACOUT 5.0",
 image: "https://images.prismic.io/ieeemuj/ZvMbJLVsGrYSv4gW_BREACOUTMAINPOSTER-1-.png?auto=format,compress",
-date: "",
-year: "",
+date: "5 October",
+year: "2024",
 description: "A Harry Potter themed treasure hunt where the participants will be divided into four groups and each group will follow a specific storyline to reach the final treasure. Scripts, clues, and mini games will be a major part of the event."
 },
 {
 id: 73,
 title: "Networking Night With WIE",
 image: "https://images.prismic.io/ieeemuj/ZvXUHrVsGrYSwDcE_NWWMAINPOSTER.png?auto=format,compress",
-date: "",
-year: "",
+date: "6 October",
+year: "2024",
 description: "NWWIE is an overnight women only event, filled with technical and non-technical programs to engage the participants with fellow women."
 },
 {
 id: 72,
 title: "TECHEXPO",
 image: "https://images.prismic.io/ieeemuj/ZvXUWLVsGrYSwDcF_techexpomainposter.png?auto=format,compress",
-date: "",
-year: "",
+date: "7 October",
+year: "2024",
 description: "A showcase event where participants from various domains come together to present their innovative projects. This event provides a platform for individuals and teams to demonstrate their creativity, technical expertise, and problem-solving skills across a wide range of fields including technology, design, business, engineering, and more."
 },
 {
 id: 71,
 title: "Pixel Forge",
 image: "https://images.prismic.io/ieeemuj/ZvXT9LVsGrYSwDcC_pixelforgemainposter.png?auto=format,compress",
-date: "",
-year: "",
+date: "3 October",
+year: "2024",
 description: "Pixel Forge is a hands-on game development workshop featuring a guest speaker from IGDC. Participants will be introduced to key tools and techniques for game development, followed by an exciting game jam to put their skills to the test and create their own games."
 },
 {
