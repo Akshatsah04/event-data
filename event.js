@@ -233,85 +233,85 @@ year: "",
 description: "“Connecting with our alumni, those who've walked the walk, is a fantastic way to map out your career and seek valuable guidance.” Keeping this in mind, IEEE WIE MUJ conducted 'BITS N' BREWS', an alumni talk with Ms. Shiksha Jaiswal (Class of 2021), who is currently working as a modern work consultant at Microsoft IGD, Hyderabad."
 },
 {
-id: 60,
-title: "SINCONF'23",
-image: "https://images.prismic.io/ieeemuj/b4a8da59-9e87-40ee-94b3-c9f242fc8d0d_ccca47e2-8961-4017-aeb3-cfbf47f07c78.jpeg?auto=compress,format",
-date: "",
-year: "",
-description: "Manipal University Jaipur in collaboration with Hasan Kalyoncu University, Gaziantep, Türkiye and IEEE MUJ organised the 16th edition of International Conference on Security of Information and Networks from 20th to 21st November 2023."
-},
-{
-id: 59,
-title: "Tech Trends",
-image: "https://images.prismic.io/ieeemuj/75c9c08d-3cfc-4b55-843c-e411131e4662_095c7788-4517-4345-ac76-110b0b25b2d9.jpeg?auto=compress,format",
-date: "",
-year: "",
-description: "IEEE WIE MUJ was the proud host of Tech Trends where we were graced by the virtual presence of Ms Purnima Kochikar, vice president of Google play partnerships, an inspiration and an active promoter of women in engineering. The event was a tremendous success with all of our audience walking away with stirring takeaways."
-},
-{
-id: 58,
-title: "IC Hack 2.0",
-image: "[https://images.prismic.io/ieeemuj/a81fad11-d3e8-4473-bc48-6f2682f436cc_ichackposterfinal+(1).png?auto=compress,format](https://images.prismic.io/ieeemuj/a81fad11-d3e8-4473-bc48-6f2682f436cc_ichackposterfinal+%281%29.png?auto=compress,format)",
-date: "",
-year: "",
-description: "IEEE Manipal University Jaipur conducted the 2nd edition of IEEE India Council Hackathon - IC Hack 2.0. The hackathon was conducted in two phases. Phase I was held from 7th to 8th October 2023 in online mode. Phase II was held from 21st to 22nd October 2023 in hybrid mode. Participants from across the country engaged in a fierce competition across four diverse tracks: Computer Vision, Healthcare, Open Innovation in Climate Change, and Innovation in Transport."
-},
-{
-id: 57,
-title: "Elohim",
-image: "img/genesis_elohim.jpg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted the closing ceremony ‘Elohim’ of their flagship technical fest Genesis 3.0. The event witnessed prolific standup comedian Akash Gupta who left the crowd in splits. The audience was also treated to performances by The Music Club, Litmus, and Coreografia. The performances were followed by a DJ set by Sunburn."
-},
-{
-id: 56,
-title: "Ballistic 3.0",
-image: "img/ballistic_3.0.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The players engaged in battles of FIFA and Mortal Kombat and many popular retro games like Contra and Road Rash."
-},
-{
-id: 55,
-title: "Network with WIE 2.0",
-image: "img/networkwithwie2.0.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An all-women event, the attendees got to interact with their peers and seniors overnight. The seniors spoke about their internship experiences at firms like Google, Microsoft, NXP, etc. Several ice-breaking sessions were also conducted to help attendees get to know each other better."
-},
-{
-id: 54,
-title: "Tech Summit",
-image: "img/techsummit01.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Learn from and ask questions to the best of the tech industry' - A panel full of experienced veterans such as Paritosh Anand, Sandeep Jain, Tejas Patil and Aditi Gupta spoke about their entrepreneurial journeys and gave out indispensable guidance to the audience."
-},
-{
-id: 53,
-title: "Breacout 4.0",
-image: "img/breacout4.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. Top 30 teams engaged in a MARVELous treasure hunt sprawling the entire campus and scavenged for the precious infinity stones in a day-long event."
-},
-{
-id: 52,
-title: "Lights Camera Auction",
-image: "img/lca3.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Be thrifty in your bidding and hustle while selling' - The participants used their entrepreneur intellect and bade for their favorite products, prepared their pitches and flipped them for a profit!"
-},
-{
-id: 51,
-title: "CODE-IT-ON 2.0",
-image: "img/codeiton2.0.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The participants competed to solve a set of 4 programming questions in a time limit of 2 hours."
-},
+    id: 60,
+    title: "SINCONF'23",
+    image: "https://images.prismic.io/ieeemuj/b4a8da59-9e87-40ee-94b3-c9f242fc8d0d_ccca47e2-8961-4017-aeb3-cfbf47f07c78.jpeg?auto=compress,format",
+    date: "20 November",
+    year: "2023",
+    description: "Manipal University Jaipur in collaboration with Hasan Kalyoncu University, Gaziantep, Türkiye and IEEE MUJ organised the 16th edition of International Conference on Security of Information and Networks from 20th to 21st November 2023."
+    },
+    {
+    id: 59,
+    title: "Tech Trends",
+    image: "https://images.prismic.io/ieeemuj/75c9c08d-3cfc-4b55-843c-e411131e4662_095c7788-4517-4345-ac76-110b0b25b2d9.jpeg?auto=compress,format",
+    date: "31 October",
+    year: "2023",
+    description: "IEEE WIE MUJ was the proud host of Tech Trends where we were graced by the virtual presence of Ms Purnima Kochikar, vice president of Google play partnerships, an inspiration and an active promoter of women in engineering. The event was a tremendous success with all of our audience walking away with stirring takeaways."
+    },
+    {
+    id: 58,
+    title: "IC Hack 2.0",
+    image: "[https://images.prismic.io/ieeemuj/a81fad11-d3e8-4473-bc48-6f2682f436cc_ichackposterfinal+(1).png?auto=compress,format](https://images.prismic.io/ieeemuj/a81fad11-d3e8-4473-bc48-6f2682f436cc_ichackposterfinal+%281%29.png?auto=compress,format)",
+    date: "7-8 October, 21-22 October",
+    year: "2023",
+    description: "IEEE Manipal University Jaipur conducted the 2nd edition of IEEE India Council Hackathon - IC Hack 2.0. The hackathon was conducted in two phases. Phase I was held from 7th to 8th October 2023 in online mode. Phase II was held from 21st to 22nd October 2023 in hybrid mode. Participants from across the country engaged in a fierce competition across four diverse tracks: Computer Vision, Healthcare, Open Innovation in Climate Change, and Innovation in Transport."
+    },
+    {
+    id: 57,
+    title: "Elohim",
+    image: "img/genesis_elohim.jpg",
+    date: "25 September",
+    year: "2023",
+    description: "IEEE MUJ conducted the closing ceremony ‘Elohim’ of their flagship technical fest Genesis 3.0. The event witnessed prolific standup comedian Akash Gupta who left the crowd in splits. The audience was also treated to performances by The Music Club, Litmus, and Coreografia. The performances were followed by a DJ set by Sunburn."
+    },
+    {
+    id: 56,
+    title: "Ballistic 3.0",
+    image: "img/ballistic_3.0.jpeg",
+    date: "23-24 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The players engaged in battles of FIFA and Mortal Kombat and many popular retro games like Contra and Road Rash."
+    },
+    {
+    id: 55,
+    title: "Network with WIE 2.0",
+    image: "img/networkwithwie2.0.jpeg",
+    date: "23 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An all-women event, the attendees got to interact with their peers and seniors overnight. The seniors spoke about their internship experiences at firms like Google, Microsoft, NXP, etc. Several ice-breaking sessions were also conducted to help attendees get to know each other better."
+    },
+    {
+    id: 54,
+    title: "Tech Summit",
+    image: "img/techsummit01.jpeg",
+    date: "23 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Learn from and ask questions to the best of the tech industry' - A panel full of experienced veterans such as Paritosh Anand, Sandeep Jain, Tejas Patil and Aditi Gupta spoke about their entrepreneurial journeys and gave out indispensable guidance to the audience."
+    },
+    {
+    id: 53,
+    title: "Breacout 4.0",
+    image: "img/breacout4.jpeg",
+    date: "23 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. Top 30 teams engaged in a MARVELous treasure hunt sprawling the entire campus and scavenged for the precious infinity stones in a day-long event."
+    },
+    {
+    id: 52,
+    title: "Lights Camera Auction",
+    image: "img/lca3.jpeg",
+    date: "22-23 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Be thrifty in your bidding and hustle while selling' - The participants used their entrepreneur intellect and bade for their favorite products, prepared their pitches and flipped them for a profit!"
+    },
+    {
+    id: 51,
+    title: "CODE-IT-ON 2.0",
+    image: "img/codeiton2.0.jpeg",
+    date: "22 September",
+    year: "2023",
+    description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The participants competed to solve a set of 4 programming questions in a time limit of 2 hours."
+    },
 {
 id: 50,
 title: "Digital Graffiti",
