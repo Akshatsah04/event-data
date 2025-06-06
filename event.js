@@ -312,86 +312,86 @@ description: "“Connecting with our alumni, those who've walked the walk, is a 
     year: "2023",
     description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The participants competed to solve a set of 4 programming questions in a time limit of 2 hours."
     },
-{
-id: 50,
-title: "Digital Graffiti",
-image: "img/digitalgraffiti.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Be the proverbial artist everyone dreams to be' - The participants made the design of their wildest imagination based on a surprise theme which was given on the day of the event."
-},
-{
-id: 49,
-title: "CSS Combat",
-image: "img/csscombat.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'It is in the CSS where the magic of a website resides' - The participants had to prove their design acumen in this 3 part online event with a massive prize pool of 20,000 Rs."
-},
-{
-id: 48,
-title: "College Starter Pack'23",
-image: "https://images.prismic.io/ieeemuj/08a6a41d-b9e2-40e3-9ece-c01863dd3e91_WhatsApp+Image+2023-08-27+at+3.21.35+PM.jpeg?auto=compress,format",
-date: "",
-year: "",
-description: "In our webinar, 'College guide for freshers', our guest speaker, Varun Kohli, the CEO of Coding Blocks shared insider tips on effective study habits, time management strategies, and how to strike a healthy balance between your academic and social life."
-},
-{
-id: 47,
-title: "Cosmic Canvas",
-image: "https://images.prismic.io/ieeemuj/f1839c88-801c-4bee-a6a7-8dbaee36b723_WhatsApp+Image+2023-10-27+at+1.22.28+AM.jpeg?auto=compress,format",
-date: "",
-year: "",
-description: "Cosmic Canvas featured a captivating poster-making competition centred around the theme of a sci-fi movie. Participants were encouraged to unleash their creativity and explore sub-themes like space, time, robots, artificial intelligence, aliens, and alternate reality."
-},
-{
-id: 46,
-title: "Tech Flix",
-image: "img/Techflix.jpg.jpeg",
-date: "",
-year: "",
-description: "Tech Flix was an event that allowed participants to explore the fascinating realm where technology and movies intertwine, and fuel their passion for learning and entertainment. We were elated to witness the outstanding knowledge and quick thinking displayed by all the participants. Their enthusiasm and passion for technology and movies were truly commendable!"
-},
-{
-id: 45,
-title: "Hands On Hustle",
-image: "img/Hands in Hustle.jpeg",
-date: "",
-year: "",
-description: "Participants had the opportunity to explore the exciting realm of creating a personal tutoring bot for placements. The main focus of the session was on developing an LLM-powered chatbot, providing attendees with valuable insights and practical skills, all at no cost."
-},
-{
-id: 44,
-title: "BitBlitz",
-image: "img/BITBLITZ.jpg",
-date: "",
-year: "",
-description: "In this contest, the coders compete while also improving their overall algorithmic knowledge. The coding contest helps students and professionals to tackle a problem by reading the concepts one doesn't know, and also gain practical experience by coding the solution to the problem, thus improving their skills significantly. This coding competition packs the excitement of programming with the fun of learning into one compelling challenge."
-},
-{
-id: 43,
-title: "The Next Dimension",
-image: "img/The_Next_Dimension.jpeg",
-date: "",
-year: "",
-description: "The speaker- Mr. Prakarsh Pathak spoke about the future of web technology. He explained about decentralised autonomy used in Web 3.0 and various other technical aspects involved. He also shed light on blockchain, NFTs and cryptocurrency mining. The speaker also spoke about DeFi and tokens."
-},
-{
-id: 42,
-title: "The Fast Switch",
-image: "img/The_Fast_Switch.png",
-date: "",
-year: "",
-description: "The Fast Switch was a coding relay competition. What makes code relay unique is that instead of writing a whole bug fix, you make incremental progress and then pass it along to the next contributor."
-},
-{
-id: 41,
-title: "Hack{Her}",
-image: "img/HackHer.jpeg",
-date: "",
-year: "",
-description: "Hack(her) was a women centric hackathon which would help the participants code under pressure and give them an exposure of solving problems based on real life scenarios."
-},
+    {
+        id: 50,
+        title: "Digital Graffiti",
+        image: "img/digitalgraffiti.jpeg",
+        date: "20 September",
+        year: "2023",
+        description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'Be the proverbial artist everyone dreams to be' - The participants made the design of their wildest imagination based on a surprise theme which was given on the day of the event."
+        },
+        {
+        id: 49,
+        title: "CSS Combat",
+        image: "img/csscombat.jpeg",
+        date: "4 January",
+        year: "2023",
+        description: "IEEE MUJ conducted its flagship techfest from 22nd to 25th September 23. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. 'It is in the CSS where the magic of a website resides' - The participants had to prove their design acumen in this 3 part online event with a massive prize pool of 20,000 Rs."
+        },
+        {
+        id: 48,
+        title: "College Starter Pack'23",
+        image: "https://images.prismic.io/ieeemuj/08a6a41d-b9e2-40e3-9ece-c01863dd3e91_WhatsApp+Image+2023-08-27+at+3.21.35+PM.jpeg?auto=compress,format",
+        date: "26 August",
+        year: "2023",
+        description: "In our webinar, 'College guide for freshers', our guest speaker, Varun Kohli, the CEO of Coding Blocks shared insider tips on effective study habits, time management strategies, and how to strike a healthy balance between your academic and social life."
+        },
+        {
+        id: 47,
+        title: "Cosmic Canvas",
+        image: "https://images.prismic.io/ieeemuj/f1839c88-801c-4bee-a6a7-8dbaee36b723_WhatsApp+Image+2023-10-27+at+1.22.28+AM.jpeg?auto=compress,format",
+        date: "28 June",
+        year: "2023",
+        description: "Cosmic Canvas featured a captivating poster-making competition centred around the theme of a sci-fi movie. Participants were encouraged to unleash their creativity and explore sub-themes like space, time, robots, artificial intelligence, aliens, and alternate reality."
+        },
+        {
+        id: 46,
+        title: "Tech Flix",
+        image: "img/Techflix.jpg.jpeg",
+        date: "18 July",
+        year: "2023",
+        description: "Tech Flix was an event that allowed participants to explore the fascinating realm where technology and movies intertwine, and fuel their passion for learning and entertainment. We were elated to witness the outstanding knowledge and quick thinking displayed by all the participants. Their enthusiasm and passion for technology and movies were truly commendable!"
+        },
+        {
+        id: 45,
+        title: "Hands On Hustle",
+        image: "img/Hands in Hustle.jpeg",
+        date: "24 June",
+        year: "2023",
+        description: "Participants had the opportunity to explore the exciting realm of creating a personal tutoring bot for placements. The main focus of the session was on developing an LLM-powered chatbot, providing attendees with valuable insights and practical skills, all at no cost."
+        },
+        {
+        id: 44,
+        title: "BitBlitz",
+        image: "img/BITBLITZ.jpg",
+        date: "12 June",
+        year: "2023",
+        description: "In this contest, the coders compete while also improving their overall algorithmic knowledge. The coding contest helps students and professionals to tackle a problem by reading the concepts one doesn't know, and also gain practical experience by coding the solution to the problem, thus improving their skills significantly. This coding competition packs the excitement of programming with the fun of learning into one compelling challenge."
+        },
+        {
+        id: 43,
+        title: "The Next Dimension",
+        image: "img/The_Next_Dimension.jpeg",
+        date: "1 April",
+        year: "2023",
+        description: "The speaker- Mr. Prakarsh Pathak spoke about the future of web technology. He explained about decentralised autonomy used in Web 3.0 and various other technical aspects involved. He also shed light on blockchain, NFTs and cryptocurrency mining. The speaker also spoke about DeFi and tokens."
+        },
+        {
+        id: 42,
+        title: "The Fast Switch",
+        image: "img/The_Fast_Switch.png",
+        date: "19 March",
+        year: "2023",
+        description: "The Fast Switch was a coding relay competition. What makes code relay unique is that instead of writing a whole bug fix, you make incremental progress and then pass it along to the next contributor."
+        },
+        {
+        id: 41,
+        title: "Hack{Her}",
+        image: "img/HackHer.jpeg",
+        date: "17-18 February",
+        year: "2023",
+        description: "Hack(her) was a women centric hackathon which would help the participants code under pressure and give them an exposure of solving problems based on real life scenarios."
+        },
 {
     id: 40,
     title: "Ready, Set, VFX 2.0",
