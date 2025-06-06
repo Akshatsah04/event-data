@@ -393,165 +393,165 @@ year: "",
 description: "Hack(her) was a women centric hackathon which would help the participants code under pressure and give them an exposure of solving problems based on real life scenarios."
 },
 {
-id: 40,
-title: "Ready, Set, VFX 2.0",
-image: "img/ready_set_vfx_2.jpeg",
-date: "",
-year: "",
-description: "The event was conducted to bring together creativity and technology to inspire the students to imagine and create the impossible. The agenda was to familiarize the audience with VFX software such as Blender."
+    id: 40,
+    title: "Ready, Set, VFX 2.0",
+    image: "img/ready_set_vfx_2.jpeg",
+    date: "13-22 January",
+    year: "2023",
+    description: "The event was conducted to bring together creativity and technology to inspire the students to imagine and create the impossible. The agenda was to familiarize the audience with VFX software such as Blender."
+    },
+    {
+    id: 39,
+    title: "CSS Combat",
+    image: "img/CSSCombat.jpeg",
+    date: "4 January",
+    year: "2023",
+    description: "CSS Combat was a code-golfing event wherein teams had to recreate the given target using CSS codes only, in a stipulated time period. It was the perfect opportunity for participants to brush up their CSS skills!"
+    },
+    {
+    id: 38,
+    title: "Social Connect",
+    image: "img/Social_Connect.png",
+    date: "6 December",
+    year: "2022",
+    description: "A total of 2 professors & 3 club members volunteered for the drive, where they met the students at the school & enbibed a sense of learning in them, by means of demonstrations, explanations, games, and lots of fun-filled activities."
+    },
+    {
+    id: 37,
+    title: "Tech Summit",
+    image: "img/TechSummit.jpeg",
+    date: "9 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A venerable panel of tech stalwarts like Mr. Arsh Goyal, Mr. Nivedan Rathi, Mr. Vinod Kumar and Ms. Priyanka Kasture spoke about their journey in tech, their upcoming ventures, their past work and experiences in tech and their bullish views on the future of tech. The audience had an incredible time interacting with the panelists and gained insights on a wide-range of tech-related topics!"
+    },
+    {
+    id: 36,
+    title: "Network with WIE",
+    image: "img/NetworkingNight.png",
+    date: "8 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. This all-nighter event was the perfect opportunity for the female developer community at MUJ to interact with each other, get valuable insights on internships by seniors and break the ice with fellow batchmates!"
+    },
+    {
+    id: 35,
+    title: "Tech Talk",
+    image: "img/TechTalk.jpeg",
+    date: "9 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An offline event, the speaker gave the audience a glimpse into Data Science and its various algorithms and applications."
+    },
+    {
+    id: 34,
+    title: "Error Terror",
+    image: "img/ErrorTerror.png",
+    date: "9 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An online event, the contestants got a chance to exercise their coding skills and debug the given snippets of code based on the desired outputs. The participants also had to fill in missing pieces of code to emerge as the final winners!"
+    },
+    {
+    id: 33,
+    title: "Code It On",
+    image: "img/CodeItOn.png",
+    date: "7 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An overnight coding sprint to put the participants’ programming knowledge at test, the event accosted the coders with multiple problem statements of varying difficulty. They had to run the provided test cases against their codes. The event offered interactive sessions with mentors and tons of knowledge to take away!"
+    },
+    {
+    id: 32,
+    title: "Breacout 3.0",
+    image: "img/Breacout.png",
+    date: "8 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The first offline segment of Breacout, teams got to brainstorm to hunt F.R.I.E.N.D.S + Brooklyn Nine-Nine using a series of clues. The treasure hunt was conducted in two rounds, the first being a quiz based on the selected show and the second being the ultimate hunt spanning the entire MUJ campus!"
+    },
+    {
+    id: 31,
+    title: "Blogverse",
+    image: "img/BlogVerse.png",
+    date: "8 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A battle of the minds and pens, teams worked against the clock to thoroughly research their topics, devise a technical paper and write the ultimate blog! Selected teams also got a chance to create technical presentations and winners received internship opportunities from GeeksforGeeks and Content-Whale!"
+    },
+{
+    id: 30,
+    title: "Clone the App",
+    image: "img/CloneTheApp.png",
+    date: "7 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. Ever wondered what goes behind making your favorite daily go-to apps? Clone-the-app sought to provide a similar experience to the participants. The teams were given applications which had to be cloned with maximum functionalities and top-notch UIs. They were allowed to use their preferred tech stacks to build the apps and establish victory!"
 },
 {
-id: 39,
-title: "CSS Combat",
-image: "img/CSSCombat.jpeg",
-date: "",
-year: "",
-description: "CSS Combat was a code-golfing event wherein teams had to recreate the given target using CSS codes only, in a stipulated time period. It was the perfect opportunity for participants to brush up their CSS skills!"
-},
-{
-id: 38,
-title: "Social Connect",
-image: "img/Social_Connect.png",
-date: "",
-year: "",
-description: "A total of 2 professors & 3 club members volunteered for the drive, where they met the students at the school & enbibed a sense of learning in them, by means of demonstrations, explanations, games, and lots of fun-filled activities."
-},
-{
-id: 37,
-title: "Tech Summit",
-image: "img/TechSummit.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A venerable panel of tech stalwarts like Mr. Arsh Goyal, Mr. Nivedan Rathi, Mr. Vinod Kumar and Ms. Priyanka Kasture spoke about their journey in tech, their upcoming ventures, their past work and experiences in tech and their bullish views on the future of tech. The audience had an incredible time interacting with the panelists and gained insights on a wide-range of tech-related topics!"
-},
-{
-id: 36,
-title: "Network with WIE",
-image: "img/NetworkingNight.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. This all-nighter event was the perfect opportunity for the female developer community at MUJ to interact with each other, get valuable insights on internships by seniors and break the ice with fellow batchmates!"
-},
-{
-id: 35,
-title: "Tech Talk",
-image: "img/TechTalk.jpeg",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An offline event, the speaker gave the audience a glimpse into Data Science and its various algorithms and applications."
-},
-{
-id: 34,
-title: "Error Terror",
-image: "img/ErrorTerror.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An online event, the contestants got a chance to exercise their coding skills and debug the given snippets of code based on the desired outputs. The participants also had to fill in missing pieces of code to emerge as the final winners!"
-},
-{
-id: 33,
-title: "Code It On",
-image: "img/CodeItOn.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. An overnight coding sprint to put the participants’ programming knowledge at test, the event accosted the coders with multiple problem statements of varying difficulty. They had to run the provided test cases against their codes. The event offered interactive sessions with mentors and tons of knowledge to take away!"
-},
-{
-id: 32,
-title: "Breacout 3.0",
-image: "img/Breacout.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. The first offline segment of Breacout, teams got to brainstorm to hunt F.R.I.E.N.D.S + Brooklyn Nine-Nine using a series of clues. The treasure hunt was conducted in two rounds, the first being a quiz based on the selected show and the second being the ultimate hunt spanning the entire MUJ campus!"
-},
-{
-id: 31,
-title: "Blogverse",
-image: "img/BlogVerse.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A battle of the minds and pens, teams worked against the clock to thoroughly research their topics, devise a technical paper and write the ultimate blog! Selected teams also got a chance to create technical presentations and winners received internship opportunities from GeeksforGeeks and Content-Whale!"
-},
-{
-id: 30,
-title: "Clone the App",
-image: "img/CloneTheApp.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. Ever wondered what goes behind making your favorite daily go-to apps? Clone-the-app sought to provide a similar experience to the participants. The teams were given applications which had to be cloned with maximum functionalities and top-notch UIs. They were allowed to use their preferred tech stacks to build the apps and establish victory!"
-},
-{
-id: 29,
-title: "Ballistic 2.0",
-image: "img/Ballistic2.png",
-date: "",
-year: "",
-description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A two-day gaming competition to test the gaming prowess, the event had participants face-off each other in two games- Fifa’21 and Mortal Kombat. The winning teams took away exciting goodies and cash prizes!"
-},
-{
-id: 28,
-title: "Intro to Git, GitHub and Open-Source",
-image: "img/git.jpeg",
-date: "",
-year: "",
-description: "Ms. Khushi Trivedi- an MSLA from LNCTS Bhopal, prepared the audience for Hacktoberfest by explaining them various Git commands, and the difference between Git and GitHub. She also spoke about open-source and its power, and demonstrated the various concepts using a sample repository so as to give the audience a hands-on experience."
-},
-{
-id: 27,
-title: "Roadmap to DSA",
-image: "img/dsa.jpeg",
-date: "",
-year: "",
-description: "The keynote speaker was Mr. Varun Kohli, the CEO of Coding Blocks. The event was an Introduction to DSA and its importance in the life of a software engineer. A roadmap was given to the audience to improve their DSA skills. A small trivia was also conducted wherein the top 10 winners won goodies from Coding Blocks."
-},
-{
-id: 26,
-title: "Power Hour 1.0: Mrs. Deepa Sayal",
-image: "img/power_hour_1.jpeg",
-date: "",
-year: "",
-description: "This event was a Q&A session with Mrs. Deepa Sayal- founder of TechSuperGirl and IWiLIndia. Mrs. Sayal narrated her journey and challenges as an entrepreneurs and encouraged open conversations. The attendees enjoyed this insightful session."
-},
-{
-id: 25,
-title: "Fundamentals of Kotlin and Android Components",
-image: "img/kotlin.jpeg",
-date: "",
-year: "",
-description: "The speaker Mr. Sagar Patel gave a hands-on experience to the audience in Android Development. He walked the audience through the Kotlin Syntax and Android components such as Views, Fragments and Activities."
-},
-{
-id: 24,
-title: "Quizscape",
-image: "img/quizscape.png",
-date: "",
-year: "",
-description: "This event was a three-level sci-tech based puzzle. The first round involved image based identification questions. The second round was a rebus round where participants had to decipher a word based on the clue given in the image. The finale round was a 24-clue based crossword conducted online."
-},
-{
-id: 23,
-title: "The Road from Bachelors to Masters",
-image: "img/masters.png",
-date: "",
-year: "",
-description: "The panel gave tips to the audience members on a plethora of topics relating to masters programs in CS. Some of the topics that the speakers shed light on were- shortlisting universities to apply to, planning finances, getting Letters of Recommendations (LORs), building a strong portfolio and writing a convincing Statement of Purpose (SOP). The audience keenly interacted with the speakers and raised various interesting queries."
-},
-{
-id: 22,
-title: "HerStory: Ms. Eshita Kapoor",
-image: "img/wit_eshita.jpg",
-date: "",
-year: "",
-description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
-},
-{
-id: 21,
-title: "HerStory: Ms. Anagha Sivadas",
-image: "img/wit_anagha.jpg",
-date: "",
-year: "",
-description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
-},
+    id: 29,
+    title: "Ballistic 2.0",
+    image: "img/Ballistic2.png",
+    date: "7-8 October",
+    year: "2022",
+    description: "IEEE MUJ conducted its flagship techfest from 7th to 9th October 22. All three societies came together to organize a plethora of tech and semi-tech events, challenging the participants’ wits and problem-solving abilities. A two-day gaming competition to test the gaming prowess, the event had participants face-off each other in two games- Fifa’21 and Mortal Kombat. The winning teams took away exciting goodies and cash prizes!"
+    },
+    {
+    id: 28,
+    title: "Intro to Git, GitHub and Open-Source",
+    image: "img/git.jpeg",
+    date: "27 September",
+    year: "2022",
+    description: "Ms. Khushi Trivedi- an MSLA from LNCTS Bhopal, prepared the audience for Hacktoberfest by explaining them various Git commands, and the difference between Git and GitHub. She also spoke about open-source and its power, and demonstrated the various concepts using a sample repository so as to give the audience a hands-on experience."
+    },
+    {
+    id: 27,
+    title: "Roadmap to DSA",
+    image: "img/dsa.jpeg",
+    date: "3 September",
+    year: "2022",
+    description: "The keynote speaker was Mr. Varun Kohli, the CEO of Coding Blocks. The event was an Introduction to DSA and its importance in the life of a software engineer. A roadmap was given to the audience to improve their DSA skills. A small trivia was also conducted wherein the top 10 winners won goodies from Coding Blocks."
+    },
+    {
+    id: 26,
+    title: "Power Hour 1.0: Mrs. Deepa Sayal",
+    image: "img/power_hour_1.jpeg",
+    date: "12 August",
+    year: "2022",
+    description: "This event was a Q&A session with Mrs. Deepa Sayal- founder of TechSuperGirl and IWiLIndia. Mrs. Sayal narrated her journey and challenges as an entrepreneurs and encouraged open conversations. The attendees enjoyed this insightful session."
+    },
+    {
+    id: 25,
+    title: "Fundamentals of Kotlin and Android Components",
+    image: "img/kotlin.jpeg",
+    date: "6 August",
+    year: "2022",
+    description: "The speaker Mr. Sagar Patel gave a hands-on experience to the audience in Android Development. He walked the audience through the Kotlin Syntax and Android components such as Views, Fragments and Activities."
+    },
+    {
+    id: 24,
+    title: "Quizscape",
+    image: "img/quizscape.png",
+    date: "11 July",
+    year: "2022",
+    description: "This event was a three-level sci-tech based puzzle. The first round involved image based identification questions. The second round was a rebus round where participants had to decipher a word based on the clue given in the image. The finale round was a 24-clue based crossword conducted online."
+    },
+    {
+    id: 23,
+    title: "The Road from Bachelors to Masters",
+    image: "img/masters.png",
+    date: "23 June",
+    year: "2022",
+    description: "The panel gave tips to the audience members on a plethora of topics relating to masters programs in CS. Some of the topics that the speakers shed light on were- shortlisting universities to apply to, planning finances, getting Letters of Recommendations (LORs), building a strong portfolio and writing a convincing Statement of Purpose (SOP). The audience keenly interacted with the speakers and raised various interesting queries."
+    },
+    {
+    id: 22,
+    title: "HerStory: Ms. Eshita Kapoor",
+    image: "img/wit_eshita.jpg",
+    date: "26 June",
+    year: "2021",
+    description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
+    },
+    {
+    id: 21,
+    title: "HerStory: Ms. Anagha Sivadas",
+    image: "img/wit_anagha.jpg",
+    date: "10 July",
+    year: "2021",
+    description: "The speaker inspired MUJ's aspiring students and gave them indispensable advice on handling challenges and break barriers as women in tech."
+    },
 {
 id: 20,
 title: "HerStory: Ms. Ananya Smirti",
