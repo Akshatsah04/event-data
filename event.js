@@ -4,73 +4,73 @@
 id: 89,
 title: "HardWired",
 image: "https://iili.io/3lFrrQ9.md.jpg",
-date: "",
-year: "",
+date: "5 April",
+year: "2025",
 description: "A creative competition that challenges participants to design innovative, practical projects using Arduino, pushing the boundaries of technology and hands-on development."
 },
 {
 id: 88,
 title: "Artemis: Mental Health Check-In",
 image: "https://iili.io/3lFrvkl.md.jpg",
-date: "",
-year: "",
+date: "5 April",
+year: "2025",
 description: "An empowering session dedicated to mental wellness, offering tools and strategies to manage stress, build resilience, and maintain balance in today's fast-paced world."
 },
 {
 id: 87,
 title: "Pandora: AR/VR Workshop for Innovators",
 image: "https://iili.io/3lFrPEu.md.jpg",
-date: "",
-year: "",
+date: "5 April",
+year: "2025",
 description: "Step into the immersive world of AR/VR, where participants will create and experiment with technologies reshaping industries and experiences."
 },
 {
 id: 86,
 title: "Binary Bloom: Web3 Development Indulgence",
 image: "https://iili.io/3lFrk74.md.jpg",
-date: "",
-year: "",
+date: "5 April",
+year: "2025",
 description: "Delve into blockchain and Web3, learning to create decentralized solutions that are set to transform industries and everyday life."
 },
 {
 id: 85,
 title: "DataPulse: Mock Quant Datathon",
 image: "https://iili.io/3lFrNrG.md.jpg",
-date: "",
-year: "",
+date: "4-5 April",
+year: "2025",
 description: "An intense, high-energy datathon where participants analyze real-world datasets, applying quantitative methods to tackle complex challenges."
 },
 {
 id: 84,
 title: "FutureSync: 3D Printing and Robotics Session",
 image: "https://iili.io/3lFre2f.md.jpg",
-date: "",
-year: "",
+date: "4 April",
+year: "2025",
 description: "A hands-on workshop for 3D printing, applying creativity and problem-solving to real-world challenges."
 },
 {
 id: 83,
 title: "NextTech: Computing Session",
 image: "https://iili.io/3lFr6Be.md.jpg",
-date: "",
-year: "",
+date: "4 April",
+year: "2025",
 description: "Discover the future of computing with quantum technologies and photonics, and explore their power to solve today's most pressing challenges."
 },
 {
 id: 82,
 title: "TechEden: A Premier Tech Symposium",
 image: "https://iili.io/3lFrirb.md.jpg",
-date: "",
-year: "",
+date: "4 April",
+year: "2025",
 description: "A dynamic gathering of industry leaders and tech enthusiasts, diving into the latest trends in AI, blockchain, and cutting-edge innovations shaping tomorrow."
 },
 {
 id: 81,
 title: "BITS N' BREWS 5.0",
 image: "https://iili.io/26icOve.jpg",
-date: "",
-year: "",
-description: "IEEE WIE MUJ is excited to present Bits N’ Brews (Ep:5)—an inspiring alumni talk featuring Ms. Kritika Rag, Software Engineer at Google and tech trailblazer."
+date: "11 January",
+year: "2025",
+description: "IEEE WIE MUJ is excited to present Bits N' Brews (Ep:5)—an inspiring alumni talk featuring Ms. Kritika Rag, Software Engineer at Google and tech trailblazer."
 },
 {
 id: 80,
